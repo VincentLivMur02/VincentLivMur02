@@ -55,7 +55,7 @@ Forse ti starai chiedendo perché prendere in considerazione qualcuno che si def
 ---
 
 ### Seguimi su :
-<a href="https://www.linkedin.com/in/vincenzo-livio-murlo">
+<a href="https://www.linkedin.com/in/vincenzo-livio-murlo-859b98334/">
     <img align="left" alt="Linkedin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
 </a>
 <a href="https://github.com/VincentLivMur02">
