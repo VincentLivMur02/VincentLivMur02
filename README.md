@@ -33,7 +33,10 @@ Verso la fine del 4° / inizio 5° anno di liceo linguisitico, avevo iniziato a 
     Nel nuovo percorso, ho scelto lo sviluppo Full Stack ( molto complesso... ma utile per capire a tutto tondo le varie tecnologie ), ho mosso i primi passi con lo sviluppo Front End, approfondendo i lunguaggi come : HTML, CSS e JavaScript, passando per framework e librerie ( React, Bootstrap, Tailwind ), per finire poi sul Back End, approfondendo GitHub, MySQL, PhP e Laravel. </br></br>
     Essendo molte tecnologie da imparare, a distanza di tempo devo ancora padroneggiarle a pieno, ma su questo non si finisce mai 😂. Spero che leggendo queste righe non vi siate annoiati, un saluto 👋☺️.
 </details>
-</br>
+
+#
+
+### Porgetti Test : 
 
 #
 
@@ -44,7 +47,16 @@ Verso la fine del 4° / inizio 5° anno di liceo linguisitico, avevo iniziato a 
 
 #
 
+### Seguimi su :
 
+<img align="left" alt="Linkedin" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
+<img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+
+
+> [!NOTE]
+> Questo Readme è ispirato al tutorial di "**[@forrestknight](https://www.youtube.com/watch?v=9A8sQZDRn5o)**", che offre ottimi spunti per personalizzare il proprio profilo GitHub.
+
+          
 
 
 
