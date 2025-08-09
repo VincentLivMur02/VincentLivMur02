@@ -24,7 +24,11 @@ Forse ti starai chiedendo perché prendere in considerazione qualcuno che si def
 ### Progetti Test : 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=VincentLivMur02&repo=Card_Mama&theme=discord_old_blurple)](https://github.com/VincentLivMur02/Card_Mama)
+
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=VincentLivMur02&repo=CodeThrone&theme=discord_old_blurple)](https://github.com/VincentLivMur02/CodeThrone)
+
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=VincentLivMur02&repo=Chatbot_project&theme=discord_old_blurple)](https://github.com/VincentLivMur02/Chatbot_project)
 
 #
@@ -51,22 +55,25 @@ Forse ti starai chiedendo perché prendere in considerazione qualcuno che si def
 ---
 
 ### Seguimi su :
-
-<img align="left" alt="Linkedin" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg&https://www.linkedin.com/in/vincenzo-livio-murlo"/>
-<img align="left" alt="GitHub" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+<a >
+    <img align="left" alt="Linkedin" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
+</a>
+<a>
+    <img align="left" alt="GitHub" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+</a>
 
 </br>
 
 > [!NOTE]
 > Questo Readme è ispirato al tutorial di "**[@ForrestKnight](https://www.youtube.com/watch?v=9A8sQZDRn5o)**", che offre ottimi spunti per personalizzare il proprio profilo GitHub.
 > 
-> Fonti citate nel video :
-> Repo di **[@anuraghazra](https://github.com/anuraghazra/github-readme-stats/tree/master?tab=readme-ov-file#github-stats-card)**;
+> Fonti citate nel video :</br>
+> __1.__ Repo di **[@anuraghazra](https://github.com/anuraghazra/github-readme-stats/tree/master?tab=readme-ov-file#github-stats-card)**;
 > 
-> Repo di **[@codeSTACKr](https://github.com/codestackr/codestackr)**
+> __2.__ Repo di **[@codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)**;
 >
->
->
+> __3.__ Repo di **[@DenverCoder1](https://github.com/DenverCoder1/DenverCoder1)**.
+
 
           
 
