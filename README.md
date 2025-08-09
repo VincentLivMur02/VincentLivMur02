@@ -21,6 +21,14 @@ Forse ti starai chiedendo perché prendere in considerazione qualcuno che si def
 
 # 
 
+### Progetti Test : 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=VincentLivMur02&repo=Card_Mama&theme=discord_old_blurple)](https://github.com/VincentLivMur02/Card_Mama)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=VincentLivMur02&repo=CodeThrone&theme=discord_old_blurple)](https://github.com/VincentLivMur02/CodeThrone)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=VincentLivMur02&repo=Chatbot_project&theme=discord_old_blurple)](https://github.com/VincentLivMur02/Chatbot_project)
+
+#
+
 <details>
     <summary><h2>🗺️✈️ Il mio viaggio nel coding</h2></summary>
     Verso la fine del 4° / inizio 5° anno di liceo linguistico, ho iniziato a curiosare e a capire come funzionassero le cose dietro lo schermo, soprattutto nel mondo del Web. Ho mosso i primi passi da autodidatta, esplorando diversi tutorial su YouTube.
@@ -33,14 +41,6 @@ Forse ti starai chiedendo perché prendere in considerazione qualcuno che si def
     </br></br>
 </details>
 
-#
-
-### Progetti Test : 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=VincentLivMur02&repo=Card_Mama&theme=discord_old_blurple)](https://github.com/VincentLivMur02/Card_Mama)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=VincentLivMur02&repo=CodeThrone&theme=discord_old_blurple)](https://github.com/VincentLivMur02/CodeThrone)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=VincentLivMur02&repo=Chatbot_project&theme=discord_old_blurple)](https://github.com/VincentLivMur02/Chatbot_project)
-
 # 
 
 ### 📈 Satistiche 
@@ -52,13 +52,21 @@ Forse ti starai chiedendo perché prendere in considerazione qualcuno che si def
 
 ### Seguimi su :
 
-<img align="left" alt="Linkedin" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
-<img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+<img align="left" alt="Linkedin" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg&https://www.linkedin.com/in/vincenzo-livio-murlo"/>
+<img align="left" alt="GitHub" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 
 </br>
 
 > [!NOTE]
-> Questo Readme è ispirato al tutorial di "**[@forrestknight](https://www.youtube.com/watch?v=9A8sQZDRn5o)**", che offre ottimi spunti per personalizzare il proprio profilo GitHub.
+> Questo Readme è ispirato al tutorial di "**[@ForrestKnight](https://www.youtube.com/watch?v=9A8sQZDRn5o)**", che offre ottimi spunti per personalizzare il proprio profilo GitHub.
+> 
+> Fonti citate nel video :
+> Repo di **[@anuraghazra](https://github.com/anuraghazra/github-readme-stats/tree/master?tab=readme-ov-file#github-stats-card)**;
+> 
+> Repo di **[@codeSTACKr](https://github.com/codestackr/codestackr)**
+>
+>
+>
 
           
 
