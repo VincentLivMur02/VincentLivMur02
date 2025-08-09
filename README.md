@@ -1,4 +1,4 @@
-## Ciao a tutti, sono Vincenzo - aka VincentLivMur02👋😊
+## Ciao a tutti, sono Vincenzo 👋😊
 
 **`Web Developer ( Dummy ) 🖥️`** 
 
