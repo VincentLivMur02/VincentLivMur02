@@ -24,14 +24,18 @@ Forse ti starai chiedendo perché prendere in considerazione qualcuno che si def
 ### Progetti Test : 
 
 <a href="https://github.com/VincentLivMur02/Card_Mama">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=VincentLivMur02&repo=Card_Mama&theme=discord_old_blurple" width="350" alt="Card_Mama">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=VincentLivMur02&repo=Card_Mama&theme=discord_old_blurple" width="330" alt="Card_Mama">
 </a>
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=VincentLivMur02&repo=CodeThrone&theme=discord_old_blurple)](https://github.com/VincentLivMur02/CodeThrone)
+<a href="https://github.com/VincentLivMur02/CodeThrone">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=VincentLivMur02&repo=CodeThrone&theme=discord_old_blurple" width="330" alt="CodeThrone">
+</a>
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=VincentLivMur02&repo=Chatbot_project&theme=discord_old_blurple)](https://github.com/VincentLivMur02/Chatbot_project)
+<a href="https://github.com/VincentLivMur02/Chatbot_project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=VincentLivMur02&repo=Chatbot_project&theme=discord_old_blurple" width="330" alt="Chatbot_project">
+</a>
 
 #
 
