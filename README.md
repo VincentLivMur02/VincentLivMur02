@@ -23,7 +23,9 @@ Forse ti starai chiedendo perché prendere in considerazione qualcuno che si def
 
 ### Progetti Test : 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=VincentLivMur02&repo=Card_Mama&theme=discord_old_blurple)](https://github.com/VincentLivMur02/Card_Mama)
+<a href="https://github.com/VincentLivMur02/Card_Mama">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=VincentLivMur02&repo=Card_Mama&theme=discord_old_blurple" width="278" alt="Card_Mama">
+</a>
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=VincentLivMur02&repo=CodeThrone&theme=discord_old_blurple)](https://github.com/VincentLivMur02/CodeThrone)
