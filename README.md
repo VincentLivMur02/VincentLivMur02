@@ -38,7 +38,7 @@ Verso la fine del 4° / inizio 5° anno di liceo linguisitico, avevo iniziato a 
 
 ### Progetti Test : 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?show_owner=VincentLivMur02&username=VincentLivMur02&repo=Card_Mama&theme=discord_old_blurple)](https://github.com/VincentLivMur02/Card_Mama)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?show_owner=vincentlivmur02&username=VincentLivMur02&repo=Card_Mama&theme=discord_old_blurple)](https://github.com/VincentLivMur02/Card_Mama)
 
 # 
 
