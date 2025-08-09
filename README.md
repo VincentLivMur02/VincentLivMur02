@@ -2,9 +2,9 @@
 
 **`Web Developer ( Dummy ) 🖥️`** 
 
-Forse ti starai chiedendo perché prendere in considerazione qualcuno che si definisce un **"Dummy"**. Semplice: sono quasi 3 anni che studio codice per "Web Development", mi reputo una persona umile che ha sempre voglia di crescere, affrontando le cose con curiosità, serenità e con la volontà di imparare dai propri errori. Lontano dall'essere un esperto,  mi considero un **appassionato di tecnologia a tutto tondo**, dall'**`Intelligenza Artificiale ( AI )` ai `linguaggi di programmazione`**, sempre pronto a tuffarmi in nuove sfide e a studiare le creazioni di altri sviluppatori 😄.
+Forse ti starai chiedendo perché prendere in considerazione qualcuno che si definisce un **"Dummy"**. Semplice: sono quasi 3 anni che studio codice per "Web Development", mi reputo una persona umile che ha sempre voglia di crescere, affrontando le cose con curiosità, serenità e con la volontà di imparare dai propri errori. Lontano dall'essere un esperto,  mi considero un **appassionato di tecnologia a tutto tondo**, dall'**`AI` ai `linguaggi di programmazione`**, sempre pronto a tuffarmi in nuove sfide e a studiare le creazioni di altri sviluppatori 😄.
 
-#
+---
 
 ### Linguaggi e Tools
 
@@ -23,3 +23,9 @@ Forse ti starai chiedendo perché prendere in considerazione qualcuno che si def
 ### 📈 Satistiche 
 
 ![VincentLivMur02's GitHub stats](https://github-readme-stats.vercel.app/api?username=VincentLivMur02&show_icons=true&theme=discord_old_blurple)
+
+#
+
+### 🗺️✈️ *Il mio viaggio nel coding*
+
+
