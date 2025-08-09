@@ -55,13 +55,14 @@ Forse ti starai chiedendo perché prendere in considerazione qualcuno che si def
 ---
 
 ### Seguimi su :
-<a >
-    <img align="left" alt="Linkedin" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
+<a href="https://www.linkedin.com/in/vincenzo-livio-murlo">
+    <img align="left" alt="Linkedin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
 </a>
-<a>
-    <img align="left" alt="GitHub" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+<a href="https://github.com/VincentLivMur02">
+    <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 </a>
 
+</br>
 </br>
 
 > [!NOTE]
