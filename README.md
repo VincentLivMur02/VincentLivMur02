@@ -6,7 +6,6 @@ Forse ti starai chiedendo perché prendere in considerazione qualcuno che si def
 </br>
 
 ---
-</br>
 
 ### Linguaggi e Tools
 
@@ -21,7 +20,6 @@ Forse ti starai chiedendo perché prendere in considerazione qualcuno che si def
 </br>
 
 # 
-</br>
 
 ### 🗺️✈️ Il mio viaggio nel coding
 
@@ -38,16 +36,14 @@ Verso la fine del 4° / inizio 5° anno di liceo linguisitico, avevo iniziato a 
 </br>
 
 #
-</br>
 
 ### 📈 Satistiche 
 
 ![VincentLivMur02's GitHub stats](https://github-readme-stats.vercel.app/api?username=VincentLivMur02&show_icons=true&theme=discord_old_blurple)
-
 </br>
 
 #
-</br>
+
 
 
 
