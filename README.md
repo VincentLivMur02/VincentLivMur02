@@ -31,7 +31,7 @@ Forse ti starai chiedendo perché prendere in considerazione qualcuno che si def
     <img src="https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=VincentLivMur02&repo=CodeThrone&theme=discord_old_blurple" width="330" alt="CodeThrone">
 </a>-->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=VincentLivMur02&repo=Card_Mama&theme=discord_old_blurple&card_width=250px)](https://github.com/VincentLivMur02/Card_Mama)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=VincentLivMur02&repo=Card_Mama&theme=discord_old_blurple&card_width=220px)](https://github.com/VincentLivMur02/Card_Mama)
 
 
 #
