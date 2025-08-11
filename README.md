@@ -71,14 +71,14 @@ Forse ti starai chiedendo perché prendere in considerazione qualcuno che si def
 </br>
 
 
-<!-- Questo Readme è ispirato al tutorial di "**[@ForrestKnight](https://www.youtube.com/watch?v=9A8sQZDRn5o)**", che offre ottimi spunti per personalizzare il proprio profilo GitHub.
+<!-- ispirato al tutorial di @ForrestKnight: https://www.youtube.com/watch?v=9A8sQZDRn5o
 
-Fonti citate nel video :</br>
-__1.__ Repo di **[@anuraghazra](https://github.com/anuraghazra/github-readme-stats/tree/master?tab=readme-ov-file#github-stats-card)**;
+Fonti citate nel video :
+@anuraghazra https://github.com/anuraghazra/github-readme-stats/tree/master?tab=readme-ov-file#github-stats-card;
  
-__2.__ Repo di **[@codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)**;
+@codeSTACKr https://github.com/codeSTACKr/codeSTACKr;
 
-__3.__ Repo di **[@DenverCoder1](https://github.com/DenverCoder1/DenverCoder1)**.-->
+@DenverCoder1 https://github.com/DenverCoder1/DenverCoder1-->
 
 
           
