@@ -25,13 +25,13 @@ Forse ti starai chiedendo perché prendere in considerazione qualcuno che si def
 
 <p align="left">
     <a href="https://github.com/VincentLivMur02/Card_Mama">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=VincentLivMur02&repo=Card_Mama&show_owner=true&theme=discord_old_blurple" width="320" alt="Card_Mama">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=VincentLivMur02&repo=Card_Mama&show_owner=false&theme=discord_old_blurple" width="320" alt="Card_Mama">
     </a>
     <a href="https://github.com/VincentLivMur02/Chatbot_project">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=VincentLivMur02&repo=Chatbot_project&show_owner=true&theme=discord_old_blurple" width="320" alt="Chatbot_project">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=VincentLivMur02&repo=Chatbot_project&show_owner=false&theme=discord_old_blurple" width="320" alt="Chatbot_project">
     </a>
     <a href="https://github.com/VincentLivMur02/CodeThrone">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=VincentLivMur02&repo=CodeThrone&show_owner=true&theme=discord_old_blurple" width="320" alt="CodeThrone">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=VincentLivMur02&repo=CodeThrone&show_owner=false&theme=discord_old_blurple" width="320" alt="CodeThrone">
     </a>
 </p>
 
