@@ -1,8 +1,8 @@
 ## Ciao a tutti, sono Vincenzo 👋😊
 
-**`Web Developer ( Dummy ) 🖥️`** 
+**`Web Developer ( Apprendista dev🖥️ )`** 
 
-Forse ti starai chiedendo perché prendere in considerazione qualcuno che si definisce un **"Dummy"**. Semplice: sono quasi 3 anni che studio codice per "Web Development", mi reputo una persona umile che ha sempre voglia di crescere, affrontando le cose con curiosità, serenità e con la volontà di imparare dai propri errori. Lontano dall'essere un esperto,  mi considero un **appassionato di tecnologia a tutto tondo**, dall'**AI** ai **linguaggi di programmazione**, sempre pronto a tuffarmi in nuove sfide e a studiare le creazioni di altri sviluppatori 😄.
+Sono quasi 3 anni che studio codice per "Web Development", mi reputo una persona umile che ha sempre voglia di crescere, affrontando le cose con curiosità, serenità e con la volontà di imparare dai propri errori. Lontano dall'essere un esperto,  mi considero un **appassionato di tecnologia a tutto tondo**, dall'**AI** ai **linguaggi di programmazione**, sempre pronto a tuffarmi in nuove sfide e a studiare le creazioni di altri sviluppatori 😄.
 </br>
 
 ---
