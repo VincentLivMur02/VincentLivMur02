@@ -43,12 +43,12 @@ Sono quasi 3 anni che studio codice per "Web Development", mi reputo una persona
     </br></br>
     Abbandonata l'idea di un percorso universitario tradizionale, ho deciso di intraprendere la strada dello sviluppo web, spinto da una forte passione per la tecnologia. Ho iniziato il mio viaggio con un corso di programmazione che mi ha fornito le prime basi e, nonostante le sfide iniziali, ho sviluppato un approccio pratico e tenace alla risoluzione dei problemi. 
     </br></br>
-    Questo primo successo mi ha spinto a iscrivermi a un percorso formativo più strutturato, dove mi sto specializzando nello sviluppo Full Stack. Sto acquisendo solide competenze Front-End con <b>HTML</b>,<b>CSS</b> e <b>JavaScript</b>, esplorando framework e librerie moderne come <b>React</b>, <b>Bootstrap</b> e <b>Tailwind</b>. Sto poi approfondendo le tecnologie Back-End, lavorando con <b>GitHub</b>, <b>MySQL</b>, <b>PHP</b> e <b>Laravel</b>.
+    Questo primo successo mi ha spinto a iscrivermi a un percorso formativo più strutturato, dove mi sto specializzando nello sviluppo Full Stack. Sto acquisendo solide competenze Front-End con <b>HTML</b>, <b>CSS</b> e <b>JavaScript</b>, esplorando framework e librerie moderne come <b>React</b>, <b>Bootstrap</b> e <b>Tailwind</b>. Sto poi approfondendo le tecnologie Back-End, lavorando con <b>GitHub</b>, <b>MySQL</b>, <b>PHP</b> e <b>Laravel</b>.
     </br></br>
-    Attualmente vorrei mettermi in gioco collaborando con aziende o team di sviluppo, per crescere in un contesto professionale dinamico e stimolante.
-    Sono anche molto interessato a contribuire a progetti open source, dove poter imparare dal confronto diretto con altri sviluppatori e restare aggiornato sulle pratiche e tecnologie più innovative del settore.
+    Attualmente vorrei mettermi in gioco lavorando e collaborando con aziende o team di sviluppo, per crescere in un contesto professionale dinamico e stimolante.
+    Sono anche molto interessato a contribuire a progetti open source, dove poter imparare dal confronto diretto con altri sviluppatori e restare aggiornato sulle tecnologie più innovative del settore.
     </br></br>
-    Sono convinto che il percorso di apprendimento sia continuo e sono sempre pronto ad affrontare nuove sfide per padroneggiare al meglio le tecnologie che ho studiato e a scoprirne di nuove. Un saluto a tutti! 👋☺️.
+    Sono convinto che il percorso di apprendimento sia continuo e sono sempre pronto ad affrontare nuove sfide per padroneggiare al meglio le tecnologie che ho studiato e a scoprirne di nuove. Un saluto a tutti! 👋☺️
     </br></br>
 </details>
 
